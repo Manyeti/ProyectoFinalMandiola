@@ -1,9 +1,9 @@
-/* import { useState } from "react"; */
+
 import CartWidget from "./CartWidget";
 import { NavLink } from "react-router-dom";
 
 const NavBar = () => {
-    //const [visible, setVisible] = useState(true);
+
     return (
         <div>
             <ul className="nav justify-content-center p-3">
@@ -27,9 +27,7 @@ const NavBar = () => {
                 </li> 
             </ul>
         
-            {/* <div className="col-md-6 text-end">
-            <CartWidget/>
-            </div>  */}
+            
 
         </div>    
     )

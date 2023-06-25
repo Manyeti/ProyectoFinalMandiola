@@ -78,5 +78,20 @@ text-transform: capitalize;
  font-weight: 200;
 } */
 
+.card-personalizada {
+  width: 300px
+}
 
+.card {
+  width: 100%;
+  max-width: var(--max);
+  height: 600px;
+  object-fit: scale-down;
+  } 
 
+  .card-img-top {
+    width: 100%;
+    max-width: var(--max);
+    height: 70%;
+    object-fit: scale-down;
+    }

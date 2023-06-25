@@ -1,8 +1,14 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import ItemCount from "./ItemCount";
+import { CartContext } from "./context/CartContext";
 
 const ItemDetail = ({producto}) => {
+    const {addItem} = useContext(CartContext);
     const [item, setItem] = useState({});
+    const onAdd =(quantity) => {
+        addItem(item, quantity);
+    }
+
     
     useEffect(() => {
         setItem(producto);
@@ -18,7 +24,7 @@ const ItemDetail = ({producto}) => {
                     <h1>{item.nombre}</h1>
                     <h5 className="text-secondary">{item.descripcion}</h5>
                     <p><b><h2>${item.precio}</h2></b></p>
-                    <ItemCount stock={item.stock} />
+                    <ItemCount stock={item.stock} onAdd={onAdd} />
                 </div>
             </div>
         </div>
