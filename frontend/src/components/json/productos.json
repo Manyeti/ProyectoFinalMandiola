@@ -1,0 +1,242 @@
+[{
+    "id": 1,
+    "tipo": "raqueta",
+    "nombre": "PRINCE ENERGY 19",
+    "descripcion": "La raqueta ENERGY 19 es ideal para jugadores principiantes hasta 4 años con una altura hasta 100 cm.",
+    "precio": 32,
+    "stock": 10,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_114148090_899128_1"
+}, {
+    "id": 2,
+    "tipo": "raqueta",
+    "nombre": "YONEX EZONE JR 17 160 g Rosa",
+    "descripcion": "Raqueta VCORE para niños de menos de 4 años con una altura aproximada de 80 cm.",
+    "precio": 34,
+    "stock": 7,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_121337992_2866195_1"
+}, {
+    "id": 3,
+    "tipo": "raqueta",
+    "nombre": "PRINCE VELOCITY TEAM 100 275g G2",
+    "descripcion": "La raqueta Prince Velocity Team 100 es una raqueta ideal para aquellos que se inician en el tenis.",
+    "precio": 59,
+    "stock": 17,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_113782618_762963_1"
+}, {
+    "id": 4,
+    "tipo": "raqueta",
+    "nombre": "PRINCE SCREAM PRO 105 G2 290g",
+    "descripcion": "La raqueta PRINCE Scream 105 tiene un gran punto dulce y una sensación indulgente para dominar el juego.",
+    "precio": 69,
+    "stock": 9,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_114148090_899128_1"
+}, {
+    "id": 5,
+    "tipo": "raqueta",
+    "nombre": "YONEX SMASH HEAT 290g G3 Verde",
+    "descripcion": "La raqueta YONEX SMASH HEAT es una excelente opción para los jugadores recreativos que buscan potencia y comodidad. Con la Smash Heat, YONEX ofrece una impresionante combinación de velocidad, efectos y potencia controlable.",
+    "precio": 79,
+    "stock": 18,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_112959131_473927_1"
+}, {
+    "id": 6,
+    "tipo": "raqueta",
+    "nombre": "PRINCE SHARK 110 265g G2",
+    "descripcion": "La raqueta Prince Shark 110 es una raqueta ideal para aquellos que se inician en el tenis.",
+    "precio": 89,
+    "stock": 16,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_113124981_537900_1"
+}, {
+    "id": 7,
+    "tipo": "raqueta",
+    "nombre": "PRINCE RIPSTICK 26",
+    "descripcion": "La raqueta RIPSTICK 26 es ideal para jugadores principiantes de 10 o más y con una altura entre 140 cm y 160 cm.",
+    "precio": 97,
+    "stock": 8,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_115766749_1255588_1"
+}, {
+    "id": 8,
+    "tipo": "raqueta",
+    "nombre": "YONEX EZONE 26 250g Grafito 2022",
+    "descripcion": "7ma generación de la raqueta EZONE júnior íntegramente 100% grafito con una potencia extraordinaria (9-11 años).",
+    "precio": 109,
+    "stock": 19,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_113125034_537929_1"
+}, {
+    "id": 9,
+    "tipo": "raqueta",
+    "nombre": "PRINCE RIPSTICK 100 300g G3",
+    "descripcion": "La raqueta Prince RIPSTICK 100 de 300 gramos es una opción ideal para el juego moderno, más cómoda que otras opciones de su misma categoría. Resulta rápida para jugadores de nivel intermedio y, gracias al swingweight de casi 330, ofrece estabilidad y potencia a los de niveles más avanzados.",
+    "precio": 169,
+    "stock": 24,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_113124969_537895_1"
+}, {
+    "id": 10,
+    "tipo": "raqueta",
+    "nombre": "YONEX VCORE PRO 97 HG 3/8 330g",
+    "descripcion": "YONEX se enorgullece en anunciar una actualización de su raqueta más avanzada, la VCORE PRO. Equipado con malla de amortiguación de vibraciones (VDM) para filtrar vibraciones no deseadas, la VCORE PRO está diseñado para los golpeadores pesados que buscan aplastar con control.",
+    "precio": 179,
+    "stock": 8,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_121337998_2866199_1"
+}, {
+    "id": 11,
+    "tipo": "raqueta",
+    "nombre": "YONEX EZONE 98 315g G3 2020",
+    "descripcion": "Con 315 gramos y una cabeza de 98 pulgadas, la nueva EZONE TOUR 2020 es la elección perfecta para los jugadores avanzados que buscan dominar con más potencia y confort. La nueva serie de raquetas 2020 ofrece las mejores tecnologías que Yonex ha desarrollado hasta ahora para jugadores de todos los niveles.",
+    "precio": 229,
+    "stock": 21,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_121337992_2866195_1"
+}, {
+    "id": 12,
+    "tipo": "raqueta",
+    "nombre": "YONEX VCORE 98 305g G2 2023",
+    "descripcion": "La séptima generación de la VCORE es una obra maestra de tecnología y artesanía. La evolución de esta icónica raqueta combina un giro innegablemente preciso y un control notable, creando una verdadera obra de arte.",
+    "precio": 229,
+    "stock": 25,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_121337989_2866198_1"
+}, {
+    "id": 100,
+    "tipo": "padel",
+    "nombre": "HEAD DELTA MOTION",
+    "descripcion": "DELTA MOTION está diseñada para que sientas la potencia, además de ofrecer maniobrabilidad, precisión y tacto. Con carbono en la superficie de golpeo y su peso intermedio. Pensada para jugadores de nivel avanzado, la pala con forma de diamante se ha actualizado con la nueva estructura Auxetic para un tacto sensacional. ",
+    "precio": 32,
+    "stock": 10,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_118502054_2129886_1"
+}, {
+    "id": 101,
+    "tipo": "padel",
+    "nombre": "HEAD BOLT 2023 BICOLOR",
+    "descripcion": "Si eres un jugador ocasional que está empezando a competir en su club y no te asusta el color, entra con fuerza en la pista con el diseño atrevido de la pala BOLT. Esta pala de gran tamaño con forma de lágrima no solo dará vida a tu juego, sino que lo cargará de energía gracias a su potencia fácil de controlar y sus sensaciones de suavidad, además de su nivel de tolerancia.",
+    "precio": 34,
+    "stock": 15,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_118496938_2129887_1"
+}, {
+    "id": 102,
+    "tipo": "padel",
+    "nombre": "HEAD FLASH GRIS",
+    "descripcion": "Su potencia fácil y su sensación de juego suave hacen de la pala de pádel FLASH la pala perfecta para jugadores ocasionales que están comenzando a competir en un club. La pala extragrande, con forma de lágrima tiene un amplio punto dulce para más tolerancia y flexibilidad.",
+    "precio": 59,
+    "stock": 17,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_118502036_2129871_1"
+}, {
+    "id": 103,
+    "tipo": "padel",
+    "nombre": "HEAD MONSTER KidS 2022",
+    "descripcion": "Pádel Head Monster Kids 2022. Ligera y corta, pero con un grip más largo para poder colocar ambas manos, la pala de pádel MONSTER KidS es la pala ideal para pequeños “monstruos” de hasta 10 años.",
+    "precio": 69,
+    "stock": 9,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_118502045_2129878_1"
+}, {
+    "id": 104,
+    "tipo": "padel",
+    "nombre": "HEAD FLASH 2023 BICOLOR",
+    "descripcion": "Llena de energía tu juego con la pala FLASH, un modelo polivalente extragrande con forma de lágrima. Gracias a su potencia fácil de controlar y su tacto suave, es perfecta para los jugadores ocasionales que están empezando a competir en su club. ",
+    "precio": 79,
+    "stock": 18,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_118502054_2129886_1"
+}, {
+    "id": 105,
+    "tipo": "padel",
+    "nombre": "BABOLAT COUNTER VERTUO 2022",
+    "descripcion": "La Counter Vertuo ha sido desarrollada con el fin de aportar la tolerancia necesaria para aguantar los golpes de los adversarios y proporcionar una potencia fácil para acabar el punto. Intenta agotar a tus adversarios con la versión más blanda de esta nueva generación de palas que te animará a darle la vuelta al juego y ser un COUNTER STRIKER.",
+    "precio": 89,
+    "stock": 16,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_115985344_1328977_1"
+}, {
+    "id": 106,
+    "tipo": "padel",
+    "nombre": "BABOLAT REFLEX 2023",
+    "descripcion": "Hemos desarrollado la Reflex especialmente para facilitar su transición a este nuevo deporte. Con su gran punto dulce situado en la parte superior del tamiz, se adaptará aún más fácilmente a esta raqueta. ¡Juegue y diviértase!",
+    "precio": 99,
+    "stock": 8,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_119542529_2385107_1"
+}, {
+    "id": 107,
+    "tipo": "padel",
+    "nombre": "BABOLAT COUNTER VIPER 2022",
+    "descripcion": "Querías potencia, te damos explosividad. Con la máxima intensidad, gracias a la combinación de su superficie de carbono y su tecnología X-EVA, vas a descubrir una potencia explosiva nunca antes experimentada. Marca la diferencia y supera a tus adversarios.",
+    "precio": 209,
+    "stock": "19",
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_116298980_1437660_1"
+}, {
+    "id": 108,
+    "tipo": "padel",
+    "nombre": "BABOLAT AIR VIPER 2022",
+    "descripcion": "BABOLAT Air Viper 2022 te permitirá volar por el suelo! Con un peso inferior a la media, esta pala de pádel te aporta dinamismo y rapidez de ejecución para encadenar golpes y acelerar a tus oponentes. Si eliges la Babolat Air viper, también optarás por una forma de diamante que te dará precisión y potencia en voleas y golpes.",
+    "precio": 169,
+    "stock": 24,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_116983442_1631729_1"
+}, {
+    "id": 109,
+    "tipo": "padel",
+    "nombre": "WILSON BURN TEAM 2",
+    "descripcion": "Core EVA Foam presenta espuma de baja densidad para un rendimiento estable mientras conservando una sensación suave y cómoda. La tecnología Sharp Hole utiliza un proceso avanzado de perforación de agujeros para agarrar la pelota y mejorar la mordida en todos los golpes",
+    "precio": 179,
+    "stock": 8,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_113811598_774752_1"
+}, {
+    "id": 110,
+    "tipo": "padel",
+    "nombre": "WILSON Blade Pro",
+    "descripcion": "Esta pala se balancea fácilmente gracias a su menor longitud y menor peso, dos factores clave para la comodidad del brazo y el aprendizaje fundamental en cualquier joven en desarrollo. Brindando la sensación característica de la franquicia Blade en un diseño moderno, seguro y liviano.",
+    "precio": 229,
+    "stock": 21,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_115034873_1038948_1"
+}, {
+    "id": 111,
+    "tipo": "padel",
+    "nombre": "WILSON PRO STAFF V2",
+    "descripcion": "Pro Staff Team v2 facilita el juego para los nuevos jugadores en el pádel. Con un punto dulce envidiable y un patrón de agujeros diseñado para mejorar el control, esta pala de pádel tiene un amplio potencial de consistencia y jugabilidad. ",
+    "precio": 229,
+    "stock": 25,
+    "foto": "../images/productos/padel/Wilson-Pro-Staff.webp"
+}, {
+    "id": 300,
+    "tipo": "pelotas",
+    "nombre": "DUNLOP AUASTRALIAN OPEN  3x3",
+    "descripcion": "Los mejores jugadores del mundo exigen lo mejor de la pelota de tenis; mayor visibilidad, consistencia de vuelo y de rebote, por ese motivo, Dunlop está orgulloso de haber sido elegido la Pelota Oficial del Open de Australia, el primer torneo del Grand Slam usa esta pelota.",
+    "precio": 32,
+    "stock": 10,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_120995508_2886663_1"
+}, {
+    "id": 301,
+    "tipo": "pelotas",
+    "nombre": "BABOLAT TEAM ALL COURT X3",
+    "descripcion": "Team All Court es una pelota de tenis presurizada de alto rendimiento que combina resistencia y comodidad. Es la elección ideal para los jugadores habituales que buscan polivalencia, ya que la pelota de tenis Team All Court también es apta para pistas de tenis. Aprobado por la ITF",
+    "precio": 34,
+    "stock": 15,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_115883611_1302915_1"
+}, {
+    "id": 302,
+    "tipo": "pelotas",
+    "nombre": "DUNLOP FORT",
+    "descripcion": "La pelota fort es una pelota presurizada duradera con una buena jugabilidad para jugadores que están mejorando su estilo. Aprobada por la ITF.",
+    "precio": 59,
+    "stock": 17,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_112778041_403303_1"
+}, {
+    "id": 303,
+    "tipo": "pelotas",
+    "nombre": "DUNLOP ALL COURT",
+    "descripcion": "All court es una pelota presurizada de alto rendimiento que combina un rebote excepcional, durabilidad y un contacto agradable gracias al fieltro tejido de primera calidad. Esta pelota prémium es ideal para competidores o jugadores frecuentes, especialmente en pistas de tierra batida. Pelota de tenis de tipo 1 y aprobada por la ITF",
+    "precio": 69,
+    "stock": 9,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_116552694_1532810_1"
+}, {
+    "id": 304,
+    "tipo": "pelotas",
+    "nombre": "WILSON CLAY",
+    "descripcion": "Estas pelotas de tenis vienen en tarro presurizado, lo que asegura que las pelotas vengan con la presión que corresponde al momento de ser estrenadas, construidas con caucho y lana de fibra química. Diseñadas para uso en entrenamiento y competencia. Dentro de todas las cualidades que tienen estas pelotas, es su velocidad la que es siempre un factor de calidad.",
+    "precio": 19,
+    "stock": 18,
+    "foto": ".https://falabella.scene7.com/is/image/Falabella/gsc_113917991_819043_1./images/productos/pelotas/Flott-x3.webp"
+}, {
+    "id": 305,
+    "tipo": "pelotas",
+    "nombre": "DUNLOP ATP 3x3",
+    "descripcion": "Esta extraordinaria pelota incorpora HD Pro Cloth y HD Pro Core que le confieren la mejor consistencia y el mejor rendimiento. También es la pelota oficial utilizada en Intesa San Paolo NextGen ATP Finals y en Nitto ATP Finals al final de la temporada. La pelota de tenis n.º 1* del ATP World Tour.",
+    "precio": 89,
+    "stock": 16,
+    "foto": "https://falabella.scene7.com/is/image/Falabella/gsc_116546422_1532880_1"
+}
+]
